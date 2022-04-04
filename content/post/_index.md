@@ -1,5 +1,5 @@
 ---
-title: Latest News
+title: Dernières News
 
 # Listing view
 view: compact

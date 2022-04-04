@@ -7,9 +7,8 @@ widget: hero # See https://wowchemy.com/docs/page-builder/
 headless: true # This file represents a page section.
 weight: 10 # Order that this section will appear.
 title: |
-  Wowchemy  
-  Research Group
-hero_media: welcome.jpg
+  Future Maore Reefs
+hero_media: anemone_Moorea_oct_2017_small.jpg
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '1'
@@ -20,4 +19,4 @@ design:
 
 <br>
 
-The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+Le projet de recherche **Future Maore Reefs** propose une approche pluri-disciplinaire pour mieux comprendre les effets du changement climatique et des activités anthropiques sur les récifs mahorais.
