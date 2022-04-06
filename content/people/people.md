@@ -18,7 +18,6 @@ content:
   user_groups:
     - Chefs de projet
     - Chercheurs
-    - Ingénieurs
     - Étudiants
     - Administration
 design:

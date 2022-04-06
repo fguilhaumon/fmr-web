@@ -4,7 +4,7 @@ role: Research scientist at IRD
 avatar_filename: fguilhaumon_portrait_picture.jpg
 social: []
 superuser: true
-user_groups: Chefs de projet
+user_groups: "Chefs de projet"
 organizations:
   - name: French National Research Institute for Sustainable Development
     url: 'https://en.ird.fr/'

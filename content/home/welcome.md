@@ -19,4 +19,4 @@ design:
 
 <br>
 
-Le projet de recherche **Future Maore Reefs** propose une approche pluri-disciplinaire pour mieux comprendre les effets du changement climatique et des activités anthropiques sur les récifs mahorais.
+Le projet de recherche **Future Maore Reefs** propose une approche pluri-disciplinaire et réuni de nombreux acteurs pour mieux comprendre les effets du changement climatique et des activités anthropiques sur les récifs mahorais.

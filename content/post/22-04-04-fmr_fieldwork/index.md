@@ -1,6 +1,8 @@
 ---
 title: Première mission de terrain FMR
 date: 2021-10-01
+authors:
+  - françois-guilhaumon
 ---
 
 Congratulations to Richard Hendricks for winning first place in the Wowchemy Prize.
