@@ -9,19 +9,18 @@ headless: true
 # Order that this section appears on the page.
 weight: 68
 
-title: Meet the Team
-subtitle:
+title: Rencontrez-nous
+subtitle: l'équipe du projet
 
 content:
   # Choose which groups/teams of users to display.
   #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
   user_groups:
     - Chefs de projet
-    - Researchers
-    - Grad Students
+    - Chercheurs
+    - Ingénieurs
+    - Étudiants
     - Administration
-    - Visitors
-    - Alumni
 design:
   show_interests: false
   show_role: true
