@@ -1,9 +1,10 @@
 ---
 title: François Guilhaumon
-role: Research scientist
+role: Research scientist at IRD
 avatar_filename: fguilhaumon_portrait_picture.jpg
 social: []
 superuser: true
+user_groups: Chefs de projet
 ---
 I’m a research scientist at **IRD**. I work at ENTROPIE, a lab located on la Réunion Island, France.
 
